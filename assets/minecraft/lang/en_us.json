@@ -1,3 +1,8 @@
 {
+    "block.minecraft.glass": "Glass Cat",
+    "block.minecraft.iron_ore": "Iron Boulder Cat",
+    "block.minecraft.deepslate_iron_ore": "Deepslate Iron Boulder Cat",
+    "block.minecraft.copper_ore": "Copper Boulder Cat",
+    "block.minecraft.deepslate_copper_ore": "Copper Boulder Cat",
     "item.minecraft.shield": "Eraser Cat"
 }
